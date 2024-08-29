@@ -1,5 +1,5 @@
 # Use the official Node.js image from the Docker Hub
-FROM node:14
+From public.ecr.aws/docker/library/node:latest
 
 # Set the working directory inside the container
 WORKDIR /app
